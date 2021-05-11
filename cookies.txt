@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.grooveapps.com	TRUE	/	FALSE	1999999999	__cfduid	d97732e92ab80bdbb4033799bde6cffbc1620235233
+assets.grooveapps.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.groovefunnels.com	TRUE	/	FALSE	1999999999	__cfduid	d18edfba45c5332859293bb14f30d84341620235235
+app.groovefunnels.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.fontawesome.com	TRUE	/	FALSE	1999999999	__cfduid	d866a16790e3136456065e191815960b31620235238
+kit.fontawesome.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.prodigitalbundle.in	TRUE	/	FALSE	1999999999	__cfduid	df00afc35448bcc8c42b3cc29dfcf6f1b1620235267
+prodigitalbundle.in	TRUE	/	FALSE	1999999999	SameSite	Lax
+
